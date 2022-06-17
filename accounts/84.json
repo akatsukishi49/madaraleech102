@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tokyo-bedrock-353503",
+  "private_key_id": "c6c2d4a9b284560a6557b41d9fe8eb1c44fdf2da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyPQnRTiBl/D0J\nZwRJ5g12xQQpx4vRDelq2zWB/qNRd4oqDCjPsNLGVj8apHTvburn9drR1gp7PSqd\nJqslUUDk/nTAj6yEykifZdQ2RS0xEaXXd5OHN/vgaUvPpK/QAB3AfMcN3p9Pi7em\nojDYxps4IJQz0sM9YQxDg5PLoYIl7eQyVlIggXzvGZF3O9A6ZapHBI9u6pXp7KVM\nHVISHBZWwsQNnCAzJkLgPiHNoI/o/CPBwBBgYTSjB77XJxrLjYbTPajidKz739H1\nh/mdibih2BCBdLQT2iCH5fTfy9QGlwibXf+khZXQU6HsvYXOzm+K6RXF/Idkba06\nNg5WyCyBAgMBAAECggEAKUT9zXNYCBUv8sniEdRNIMd8b8oO4yBkAARyrr9NhHL3\n0EWRe4l3PEpDAUG7+6aEiKICAR0cvy1J/SozbYgTTRJn6SA7M2H9D79NtCUvUhHC\ngxHiXGhHj04CKjl5JeGpAeVCV8FIxOvWYaRjSAYwcX4Forw1zbP3WXiRU5B5aJt5\njsUM3cd80aXCfzMav0438LBsOqp/dNT2j6gn/D3I45TtE9WFn7UBM6Zq+q8AZEgH\n+3knAIe/M+Mdz79xwuMneyBxxwgtouuGKS2CijW42ca2mFL8kvNluKeg30b/EptC\nZgAizAg83/fOeWAVE+uNXaok685rfVfN5YXO9T284wKBgQDsqfNDLsuJOw8BNr9B\n/IynZwiSshgE3glRbLf2oCrWtEJdwKFj7riOgD5rx/8RkRygDp+hcE7rLZjQpAzm\nnNP8q5SuJaG5DvtFgiHh53NiOx2IUkUwJDsZtedc4+xEY4XqRwjHBEr++LMyvUQ9\n5HpDlABgVQkav+fJNelehLWK8wKBgQDAzRCGqvvpcZzaUE0EBhvDZs52vi1AW6+2\n5DeaLe7mwVorKDeWcstwKCoLjaHHcB3/fHsuACC7hpXL6a2TO7U9bG79MVCgR7y5\nhEQt7zBtM6CJbp3xPY31lhcY9bFHlxVRsgfSu/aWEBJv5BQ2CoYWIWnxbL6QfOOz\n9uAtOdbfuwKBgEDMZ6bFcUUpvnn+m29dzsUnGNnRmXH7uWFp+xSz1gbjZCh3Tbkm\n67FYu76XC+era8MHPf3d2j3aRjUaNc4OspxD/nmQJC+fQn1NnClWTelfdj6VCAye\nXvAzNh3g6hfviAMVX/nd2wrk3WvPFpg7rp5CL7gwkEWatcQJ1tPiUjKxAoGAar1d\nJ+FjxDNVLnyElvS2zDCPn6fcL6RTHMMukVpayEBFpl0GoXF+deKWnHzWEy9cPETz\ngV0qwgdZyWHe6gOFbLMqo1x5EbOFpYO3p2KkAeEyQMQQBy4X+N4WfYgQlNztPaR9\ntkq/0wak3nN8SQr8fyYSnEmjGyU5fznvlLpP3t8CgYEA1JxbPYmNOEc8Z6TvWjtL\njU+mnpFKjsezFCC+V0sIk3sRLV+XEnyi6+V/7+eNUrafO+ali7XrntS9aZlvG0D6\nhBfbdtLCR7iyfBLD70A8nTNCoqk2BlVhgRrZCLS9NulqxcaKdHHVb77Rw8V1A476\nqxjsJEN0bflTVo9gBqPA3Gw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "choji69@tokyo-bedrock-353503.iam.gserviceaccount.com",
+  "client_id": "115149513975331458129",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/choji69%40tokyo-bedrock-353503.iam.gserviceaccount.com"
+}
